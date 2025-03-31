@@ -1,2 +1,2 @@
 # Jeoperdy-in-C
-My first contribution :) 
+ Basic template of a jeoperdy game in C
